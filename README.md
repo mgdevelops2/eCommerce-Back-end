@@ -1,7 +1,10 @@
 # HW9 - README generator
   
   ## Description
-  The project is simple, we want to use the command-line to generate a README.md file, allowing us the project creators to devote more time to working on the project. Creating a polished GitHub portfolio is an important part of a developers public identity. And, a clean README file is the first step. Allowing you to connect with and showcase your work to other developers, which can lead to interesting collaborations.
+Internet retail, aka **e-commerce** aka largest industry for developers, because it generates an estimated $29 trillion + per annum and is growing YoY. Think of the likes of Amazon, Etsy and Shopify to name a few, the idea here is to build something (SIMILAR - not as complex) to gain a solid understanding the fundamental architecture of these platforms as a full-stack web developer.
+
+So all that to say, the idea here is to build the back end for an e-commerce site using Express.js and Sequelize.
+
   ## Table of Contents
   
   * [Installation] (#install)
@@ -17,7 +20,7 @@
 
   ## howTo Use
   ```
-  Once you fork the repo, run the index.js file using node. 
+  Once you fork the repo, add your credentials to the .env file and then run the node server.js and use insomnia to match routes
   ```
 
   ## Contributions
