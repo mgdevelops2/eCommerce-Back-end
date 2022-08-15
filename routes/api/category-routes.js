@@ -49,19 +49,13 @@ router.post('/', async (req, res) => {
 
 router.put('/:id', async (req, res) => {
   // update a category by its `id` value
-try{
-Category.update(req.body, {
-  where: { 
-    id: req.params.id,
-  }
-});
-if (!categoryData) {
-  res.status(404).json ({ message: "No location found with this id"})
-  return;
-  }
-} catch(err){
-res.status(500).json(err)
-}
+
+  Category.update(req.body, {
+    where: { 
+      id: req.params.id,
+    }})
+  
+
 });
 
 router.delete('/:id', async (req, res) => {
