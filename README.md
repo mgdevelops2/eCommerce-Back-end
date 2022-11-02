@@ -7,10 +7,10 @@ So all that to say, the idea here is to build the back end for an e-commerce sit
 
   ## Table of Contents
   
-  * [Installation] (#install)
-  * [howTo Use] (#howTo)
-  * [Contributions] (#contributions)
-  * [reportIssues] (#issues)
+  [Installation] (#install)
+  [howTo Use] (#howTo)
+  [Contributions] (#contributions)
+  [reportIssues] (#issues)
 
 
   ### install
