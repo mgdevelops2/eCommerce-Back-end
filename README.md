@@ -1,9 +1,7 @@
 # HW13 - ecommerce system
   
   ## Description
-Internet retail, aka **e-commerce** aka largest industry for developers, because it generates an estimated $29 trillion + per annum and is growing YoY. Think of the likes of Amazon, Etsy and Shopify to name a few, the idea here is to build something (SIMILAR - not as complex) to gain a solid understanding the fundamental architecture of these platforms as a full-stack web developer.
-
-So all that to say, the idea here is to build the back end for an e-commerce site using Express.js and Sequelize.
+An e-commerce back end site in the fashion sector that allows a company to search through the database to find all pertinent information regarding their products.
 
   ## Table of Contents
   
